@@ -1,0 +1,29 @@
+/**
+ * Theme Name:  Appy Theme
+ * Author:      Andrew Murko
+ * Version:     1.0
+ */
+
+.owl-carousel .owl-item img {
+	object-fit: cover;
+}
+
+.recent-blog-slider .blog-box img {
+ 	height: 230px;
+    object-fit: cover;
+ }
+
+
+.blogs .blog-box  img {
+	height: auto;
+	object-fit: cover;
+}
+.all_blogs  .blog-box img {
+ 	height: 230px;
+    object-fit: cover;
+ }
+
+ .team-slider img{
+    height: 320px;
+
+ }
